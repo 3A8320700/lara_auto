@@ -1,0 +1,15 @@
+{
+    "name": "ncut/lara_auto",
+    "autoload": {
+        "psr-4": {
+            "Ncut\\LaraAuto\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "123",
+            "email": "s3a832070@student.ncut.edu.tw"
+        }
+    ],
+    "require": {}
+}
